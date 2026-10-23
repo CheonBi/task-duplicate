@@ -19,7 +19,7 @@
 
 ## 설계 기록
 
-- [Spring MVC와 백엔드 패키지 구성](docs/spring-mvc-structure.md)
+- [Spring Boot 백엔드 구조 비교](docs/backend-architecture-research.md)
 
 ## 실행 방법
 
